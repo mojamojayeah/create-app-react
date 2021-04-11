@@ -1,0 +1,17 @@
+{
+    "folders": [
+        {
+            "path": "create-app-back",
+            "name": "backend"
+        },
+        {
+            "path": "create-app-front",
+            "name": "frontend"
+        },
+    ],
+    "settings": {
+        "editor.codeActionsOnSave": {
+            "source.fixAll.eslint": true
+        }
+    }
+}
